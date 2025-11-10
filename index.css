@@ -1,0 +1,29 @@
+body {
+      margin: 0;
+      padding: 0;
+      background: #0e0e0e;
+      color: white;
+      font-family: 'Poppins', sans-serif;
+      text-align: center;
+      overflow: hidden;
+    }
+
+    h1 {
+      margin-top: 15px;
+      color: #00ffc8;
+      font-size: 2rem;
+      text-shadow: 0 0 10px #00ffc8;
+    }
+
+    canvas {
+      display: block;
+      margin: 0 auto;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0, 255, 200, 0.4);
+    }
+
+    #status {
+      font-size: 1.3rem;
+      margin-top: 10px;
+      transition: all 0.3s ease;
+    }
