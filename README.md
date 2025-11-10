@@ -30,6 +30,6 @@
 - Webcam access
 
 ### Running the Project
-1. Clone the repository:
+1. Run the Project:
    ```bash
   https://khushi-keshari.github.io/Smart-Posture-Detector/
