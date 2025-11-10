@@ -32,4 +32,4 @@
 ### Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+  https://khushi-keshari.github.io/Smart-Posture-Detector/
